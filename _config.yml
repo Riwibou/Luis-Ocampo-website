@@ -14,8 +14,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Luis Ocampo travaux et rénovation"
-keywords:    "Luis Ocampo travaux rénovation sur Paris et Île-de-France"
+title:       "Luis Ocampo travaux rénovation et démolition"
+keywords:    "Luis Ocampo travaux rénovation démolition sur Paris et Île-de-France"
 description: "Venez faire estimez vos travaux par un professionnel"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
@@ -31,7 +31,7 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#f3ab04'
   turquoise: '#0fbfcf'
 
 kramdown:
